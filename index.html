@@ -15,10 +15,10 @@
 
 <body>
 
-    <div class="wallpaper"></div>
+    <div class="wallpaper" id="wallpaper"></div>
     <div class="content">
         <aside class="side">
-            <figure class="picture">
+            <figure class="picture" id="picture">
                 <div class="picture-shadow"></div>
                 <img alt="Portrait of Fatima Ferreira" class="picture-image" id="pictureImage"
                     src="images/IMG_20180914_063811716-01.jpg" srcset="images/IMG_20180914_063811716-01.jpg 1x,
@@ -68,6 +68,18 @@
 
 </body>
 
+<script src="js/main.js"></script>
 <script defer src="https://use.fontawesome.com/releases/v5.0.0/js/all.js"></script>
+<noscript>
+    <style type="text/css">
+        .wallpaper {
+            animation-name: zoomOut;
+        }
+
+        .picture {
+            animation-name: dropIn;
+        }
+    </style>
+</noscript>
 
 </html>
