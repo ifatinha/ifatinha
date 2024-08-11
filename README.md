@@ -7,4 +7,4 @@
 - 📫 How to contact me: https://www.linkedin.com/in/ifatima14/
 - 😄 Pronouns: Mrs.
 - ⚡ Fun fact:
-{I love books, series and travel}
+--> I love {[books], [series], [travel]}
