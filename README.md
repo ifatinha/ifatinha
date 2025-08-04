@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fatinha</h1>
 <h3 align="center">A passionate full stack developer from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ifatinha&label=Profile%20views&color=0e75b6&style=flat" alt="ifatinha" /> </p>
-
-
-
 - 🌱 I’m currently learning **JS, Python, Node and React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ifatinha](https://github.com/ifatinha)
