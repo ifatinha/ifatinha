@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Fatima and I'm a A Full Stack Developer, from Brazil</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2010<br>📚 I'm currently learning JS and Python<br>🎯 Goals: ...<br>🎲 Fun fact: passionate about technology, lover of books, movies and travel.</p>
 
 ###
 
